@@ -1,0 +1,8 @@
+[package]
+name = "neural-node"
+version = "0.1.0"
+edition = "2021"
+authors = ["Anurag Daksh anuragdaksh77777@gmail.com"]
+
+[dependencies]
+ndarray = "0.16.0"
